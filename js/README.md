@@ -844,7 +844,7 @@
 
 ## Resources
 
-    * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-    * [Google JavaScript Style Guide](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+  * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+  * [Google JavaScript Style Guide](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 
 <!-- # }; -->
