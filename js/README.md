@@ -176,12 +176,7 @@
 
     ```javascript
     // anonymous function expression
-    var anonymous = function () {
-      return true;
-    };
-
-    // named function expression
-    var named = function named() {
+    var anonymous = function() {
       return true;
     };
 
@@ -190,7 +185,7 @@
     }
 
     // immediately-invoked function expression (IIFE)
-    (function () {
+    (function() {
       console.log('Welcome to the Internet. Please follow me.');
     }());
     ```
